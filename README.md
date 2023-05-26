@@ -24,7 +24,7 @@
 ## <p align="center">Моя статистика:</p>
 <div align="center">
 <img width="395px" alt="Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Markelov97Vad&layout=compact&theme=buefy">
-<img width="400px" alt="stats" src="https://github-readme-stats.vercel.app/api?username=Markelov97Vad&show_icons=true&theme=buefy">
+<img width="400px" alt="stats" src="https://github-readme-stats.vercel.app/api?username=Markelov97Vad&show_icons=true&theme=merko">
 <img alt="codewars" src="https://www.codewars.com/users/Maarsello/badges/large">
 </div>  
 
