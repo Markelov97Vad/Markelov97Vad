@@ -2,11 +2,12 @@
 
 **<p align="center">Меня зовут Вадим и я начинающий frontend-разработчик</p>**
 
-***Люблю узнавать новое, мыслить креативно и логически. Учусь web-резработке, чтобы реализовывать задуманные идеи и открывать для себя новые возможности. Хочу работать в команде, чтобы развиваться профессионально.***
+***Люблю узнавать новое, мыслить креативно и логически. Изучаю frontend-резработку, чтобы реализовывать задуманные идеи и открывать для себя новые возможности. Хочу работать в команде, чтобы развиваться профессионально.***
 <br>
 
 ## <p align="center">Стек технологий:</p>
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
