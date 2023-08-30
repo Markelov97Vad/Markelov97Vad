@@ -1,8 +1,8 @@
 # **<p align="center">Привет всем! 👋 </p>**
 
-**<p align="center">Меня зовут Вадим и я начинающий frontend-разработчик</p>**
+**<p align="center">Меня зовут Вадим и я frontend-разработчик</p>**
 
-***Люблю узнавать новое, мыслить креативно и логически. Изучаю frontend-резработку, чтобы реализовывать задуманные идеи и открывать для себя новые возможности. Хочу работать в команде, чтобы развиваться профессионально.***
+***Люблю узнавать новое. Активно оттачиваю навыки написания программного кода и хочу полностью посвятить жизнь изучению современных технологий. На данный момент изучаю Frontend-разработку(React, TypeScript, Redux), чтобы реализовывать идеи и открывать для себя новые возможности. Мечтаю попасть в команду, в которой люди горят желанием создовать нужный и полезный продукт.***
 <br>
 
 ## <p align="center">Стек технологий:</p>
@@ -12,6 +12,7 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) 
@@ -32,7 +33,6 @@
 ## <p align="center">Контакты:</p>
 <div align="center">
 <a href="https://t.me/maarsello" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2504/2504941.png" width="30" alt="Telegram"></a>
-<a href="https://vk.com/maarsello" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2504/2504953.png" width="30" alt="Vk"></a>
 <a href="mailto:Vedmakmarkelov@yandex.ru" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/6124/6124986.png" width="30" alt="Vk"></a>
 <a href="mailto:darkdedmen@gmail.com" target="_blank" align="center"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" width="30" alt="Vk"></a>
 </div>
